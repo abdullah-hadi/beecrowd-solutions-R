@@ -1,1 +1,1 @@
-# beecrowd (previously URI) problem solutionts in R
+# beecrowd (previously URI) problem solutions in R
